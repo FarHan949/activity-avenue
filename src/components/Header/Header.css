@@ -1,0 +1,21 @@
+.nav{
+    background: #06536a;
+    color: white;
+    height: 80px;
+    display: flex;
+    justify-content:left ;
+    align-items: center;
+    padding-left: 40px;
+}
+
+.nav img{
+    width: 60px;
+    height: 70px;
+}
+
+/* 
+@media screen and (max-width: 1200px) {
+    .nav{
+        width: 100vw;
+    }
+} */

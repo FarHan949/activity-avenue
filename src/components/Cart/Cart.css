@@ -1,0 +1,107 @@
+.cart{
+   height: 90vh;
+   background: white;
+   position: sticky;
+   border-radius: 20px;
+}
+
+.user{
+    height: 75px;
+    font-size: 10px;
+    display: flex;
+    justify-content:left;
+    align-items: center;
+    gap: 20px;
+    padding: 0px 22px;
+}
+
+
+.user img{
+    width: 35px;
+    border-radius: 65px;
+}
+
+.icon{
+    display: flex;
+    gap: 3px;
+    justify-content: center;
+    align-items: center;
+}
+
+.user-info{
+    display: flex;
+    flex-direction: row;
+    padding: 17px;
+    margin: 0 10px;
+    margin-bottom: 15px;
+    border-radius: 15px;
+    gap: 30px;
+    background: #046c8b;
+    color: white;
+}
+
+.time-break{
+    display: flex;
+    flex-direction: row;
+    padding: 17px;
+    margin: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 15px;
+    gap: 5px;
+    background: #046c8b;
+    color: white;
+}
+
+.time-break p{
+    padding: 10px;
+    background: whitesmoke;
+    color: black;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.exercise-time{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 12px;
+    background: #046c8b;
+    color: white;
+}
+
+.exercise-break{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 12px;
+    background: #046c8b;
+    color: white; 
+}
+
+
+.btn{
+    margin-top: 30px;
+    margin-left: 90px;
+    padding: 20px 15px;
+    background: #046c8b;
+    color: white; 
+    border: none;
+    border-radius: 15px;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background: #21b0db;
+}

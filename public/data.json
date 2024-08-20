@@ -1,0 +1,58 @@
+[
+    {
+      "id": "665ff700ba96c332606fe57e",
+      "picture": "https://www.themanual.com/wp-content/uploads/sites/9/2021/11/jumping-jacks.jpg?fit=800%2C533&p=1",
+      "age": "20-27",
+      "name": "Jumping jacks",
+      "time": 5,
+      "details": "Jumping jacks improve cardiovascular fitness, boost heart health, and burn calories. They strengthen muscles in the legs, core, and shoulders."
+    },
+    {
+      "id": "665ff700fbe5b864fdd94194",
+      "picture": "https://hips.hearstapps.com/hmg-prod/images/running-track-1667904802.jpg?crop=1.00xw:1.00xh;0,0&resize=2048:*",
+      "age": "20-27",
+      "name": "Running",
+      "time": 30 ,
+      "details": "Running boost cardiovascular health, enhance coordination, and burn calories. They tone leg and core muscles, improve endurance, and support weight loss."
+    },
+    {
+      "id": "665ff700bd8699323c8f82c3",
+      "picture": "https://www.vistaresidences.com.ph/assets/img/all-you-need-to-know-about-the-benefits-of-cycling.png",
+      "age": "20-27",
+      "name": "Cycling",
+      "time": 20 ,
+      "details": "Cycling enhance cardiovascular fitness, strengthen leg muscles, and improve coordination. They boost metabolism, aiding in calorie burning and weight management."
+    },
+    {
+      "id": "665ff7002033d98bd7a42c49",
+      "picture": "https://hips.hearstapps.com/hmg-prod/images/female-swimmer-at-the-swimming-pool-royalty-free-image-1568376387.jpg?crop=0.668xw:1.00xh;0.167xw,0&resize=2048:*",
+      "age": "20-27",
+      "name": "Swimming",
+      "time": 11 ,
+      "details": "Swimming improve cardiovascular endurance and strengthen muscles, particularly the legs, core, and upper body."
+    },
+    {
+      "id": "665ff7000d27f6c7ae501209",
+      "picture": "https://kymira.com/cdn/shop/articles/unnamed_8a02f894-4b6c-4110-a28b-237c53e2baa1_960x600_crop_center.jpg?v=1667507202",
+      "age": "20-27",
+      "name": "Dynamic stretches",
+      "time": 15 ,
+      "details": "Dynamic stretches improve flexibility and range of motion, preparing muscles for activity. They enhance blood flow, reduce injury risk, and improve performance."
+    },
+    {
+      "id": "665ff700bb16e7ef60cb82a4",
+      "picture": "https://static.nike.com/a/images/f_auto/dpr_1.0,cs_srgb/h_1671,c_limit/43f01829-d882-4999-bd6c-0e958191c670/the-top-3-yoga-poses-to-get-stronger-according-to-experts.jpg",
+      "age": "20-27",
+      "name": "Yoga",
+      "time": 25 ,
+      "details": "Yoga enhances flexibility, strength, and balance. It reduces stress, improves mental clarity, and boosts mood through mindfulness and relaxation"
+    },
+    {
+      "id": "665ff7006ebb01396e5c9c85",
+      "picture": "https://image.cnbcfm.com/api/v1/image/107178740-1673644452489-gettyimages-1388419349-img_5093.jpeg?v=1673649280&w=740&h=416&ffmt=webp&vtcrop=y",
+      "age": "20-27",
+      "name": "Meditation",
+      "time": 10 ,
+      "details": "Meditation reduces stress, lowers blood pressure, and enhances emotional health. It improves focus, memory, and self-awareness."
+    }
+  ]
